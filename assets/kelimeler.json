@@ -1,0 +1,359 @@
+{
+  "kelimeler": [
+    {
+      "id": 1,
+      "kelime": "Insured",
+      "ceviri": "Sigorta"
+    },
+    {
+      "id": 2,
+      "kelime": "Bury",
+      "ceviri": "Gömmek"
+    },
+    {
+      "id": 3,
+      "kelime": "Decade",
+      "ceviri": "On yıllık süre"
+    },
+    {
+      "id": 4,
+      "kelime": "Renovate",
+      "ceviri": "Yenilemek"
+    },
+    {
+      "id": 5,
+      "kelime": "represent",
+      "ceviri": "temsil etmek"
+    },
+    {
+      "id": 6,
+      "kelime": "keen",
+      "ceviri": "hevesli"
+    },
+    {
+      "id": 7,
+      "kelime": "moody",
+      "ceviri": "ruh hali çok değişen"
+    },
+    {
+      "id": 8,
+      "kelime": "fortnight",
+      "ceviri": "2 haftalık süre"
+    },
+    {
+      "id": 9,
+      "kelime": "cheerful",
+      "ceviri": "neşeli"
+    },
+    {
+      "id": 10,
+      "kelime": "patient",
+      "ceviri": "sabırlı"
+    },
+    {
+      "id": 11,
+      "kelime": "passion",
+      "ceviri": "tutku"
+    },
+    {
+      "id": 12,
+      "kelime": "thoughtful",
+      "ceviri": "düşünceli"
+    },
+    {
+      "id": 13,
+      "kelime": "reliable",
+      "ceviri": "güvenilir"
+    },
+    {
+      "id": 14,
+      "kelime": "seek",
+      "ceviri": "aramak"
+    },
+    {
+      "id": 15,
+      "kelime": "cosy",
+      "ceviri": "huzurlu hoş ortam"
+    },
+    {
+      "id": 16,
+      "kelime": "astonished",
+      "ceviri": "büyülenmek(şaşırmak)"
+    },
+    {
+      "id": 17,
+      "kelime": "company",
+      "ceviri": "eşlikçi"
+    },
+    {
+      "id": 18,
+      "kelime": "stingy",
+      "ceviri": "cimri"
+    },
+    {
+      "id": 19,
+      "kelime": "uptight",
+      "ceviri": "geçimsiz"
+    },
+    {
+      "id": 20,
+      "kelime": "reserved",
+      "ceviri": "içe kapanık"
+    },
+    {
+      "id": 21,
+      "kelime": "ambitious",
+      "ceviri": "hırslı"
+    },
+    {
+      "id": 22,
+      "kelime": "reclusive",
+      "ceviri": "münzevi"
+    },
+    {
+      "id": 23,
+      "kelime": "Thyrant",
+      "ceviri": "Zalim"
+    },
+    {
+      "id": 24,
+      "kelime": "Welfare",
+      "ceviri": "Refah"
+    },
+    {
+      "id": 25,
+      "kelime": "Flaw",
+      "ceviri": "Kusur"
+    },
+    {
+      "id": 26,
+      "kelime": "Curious",
+      "ceviri": "Meraklı"
+    },
+    {
+      "id": 27,
+      "kelime": "Tribe",
+      "ceviri": "Kabile"
+    },
+    {
+      "id": 29,
+      "kelime": "Baby-Spoiled",
+      "ceviri": "Şımarık"
+    },
+    {
+      "id": 30,
+      "kelime": "Sensible",
+      "ceviri": "Mantıklı"
+    },
+    {
+      "id": 31,
+      "kelime": "Enthusiasm",
+      "ceviri": "Bir işi yaparken zevk almak"
+    },
+    {
+      "id": 32,
+      "kelime": "Twinky",
+      "ceviri": "Göz kamaştırıcı"
+    },
+    {
+      "id": 33,
+      "kelime": "Consonants",
+      "ceviri": "Ünsüz harf"
+    },
+    {
+      "id": 34,
+      "kelime": "Continent",
+      "ceviri": "Kıta"
+    },
+    {
+      "id": 35,
+      "kelime": "Rocked",
+      "ceviri": "Sallandı"
+    },
+    {
+      "id": 36,
+      "kelime": "Grasp",
+      "ceviri": "Sıkı sıkı tutmak, kavramak"
+    },
+    {
+      "id": 37,
+      "kelime": "Stint",
+      "ceviri": "Süre"
+    },
+    {
+      "id": 38,
+      "kelime": "Gossip",
+      "ceviri": "Dedikodu"
+    },
+    {
+      "id": 39,
+      "kelime": "Whereas",
+      "ceviri": "Halbuki"
+    },
+    {
+      "id": 40,
+      "kelime": "Appreciative",
+      "ceviri": "Minnettar"
+    },
+    {
+      "id": 41,
+      "kelime": "Offend",
+      "ceviri": "Gücendirmek"
+    },
+    {
+      "id": 42,
+      "kelime": "Rocked Up",
+      "ceviri": "Geç veya habersiz gelmek"
+    },
+    {
+      "id": 43,
+      "kelime": "Immature",
+      "ceviri": "Yeni doğan"
+    },
+    {
+      "id": 44,
+      "kelime": "Pros and Cons",
+      "ceviri": "Artıları ve Eksileri"
+    },
+    {
+      "id": 45,
+      "kelime": "Consultant",
+      "ceviri": "Danışman"
+    },
+    {
+      "id": 46,
+      "kelime": "Settle",
+      "ceviri": "Yerleşmek,Kurulmak"
+    },
+    {
+      "id": 47,
+      "kelime": "Abruptly",
+      "ceviri": "Ansızın"
+    },
+    {
+      "id": 48,
+      "kelime": "Trace",
+      "ceviri": "İz"
+    },
+    {
+      "id": 49,
+      "kelime": "Enrich",
+      "ceviri": "Zenginleştir"
+    },
+    {
+      "id": 50,
+      "kelime": "Urgent",
+      "ceviri": "Acil"
+    },
+    {
+      "id": 51,
+      "kelime": "Filling",
+      "ceviri": "Dolgu(Diş)"
+    },
+    {
+      "id": 52,
+      "kelime": "Involve",
+      "ceviri": "İçermek"
+    },
+    {
+      "id": 53,
+      "kelime": "Necessary",
+      "ceviri": "Gerekli"
+    },
+    {
+      "id": 54,
+      "kelime": "Inequality",
+      "ceviri": "Eşitsizlik"
+    },
+    {
+      "id": 55,
+      "kelime": "Immediate",
+      "ceviri": "Ani"
+    },
+    {
+      "id": 56,
+      "kelime": "Violent",
+      "ceviri": "Şiddetli"
+    },
+    {
+      "id": 57,
+      "kelime": "Lunatic",
+      "ceviri": "Deli,Çılgın"
+    },
+    {
+      "id": 58,
+      "kelime": "Vitally",
+      "ceviri": "hayati derecede"
+    },
+    {
+      "id": 59,
+      "kelime": "Vitality",
+      "ceviri": "Canlılık"
+    },
+    {
+      "id": 60,
+      "kelime": "Tripled",
+      "ceviri": "Üçe katlandı"
+    },
+    {
+      "id": 61,
+      "kelime": "Sipped",
+      "ceviri": "Yudumlamak"
+    },
+    {
+      "id": 62,
+      "kelime": "Lessened",
+      "ceviri": "Azaltmak"
+    },
+    {
+      "id": 63,
+      "kelime": "Underwriter",
+      "ceviri": "Sigortacı"
+    },
+    {
+      "id":64,
+      "kelime": "Urban",
+      "ceviri": "Kentsel"
+    },
+    {
+      "id":65,
+      "kelime": "Rural",
+      "ceviri": "Kırsal"
+    },
+    {
+      "id":66,
+      "kelime": "Jet-Set Lifestyle",
+      "ceviri": "Sosyete yaşam tarzı"
+    },
+    {
+      "id":67,
+      "kelime": "Unkempt",
+      "ceviri": "Dağınık"
+    },
+    {
+      "id":68,
+      "kelime": "Leisure",
+      "ceviri": "Boş vakit"
+    },
+    {
+      "id":69,
+      "kelime": "Convenient",
+      "ceviri": "Uygun, Elverişli, Kullanışlı"
+    },
+    {
+      "id":70,
+      "kelime": "Suburb",
+      "ceviri": "Kenar Mahalle, Varoş"
+    },
+    {
+      "id":71,
+      "kelime": "Inquire",
+      "ceviri": "Sormak, Soruşturmak, Araştırmak"
+    },
+    {
+      "id":72,
+      "kelime": "Assure",
+      "ceviri": "Garanti Etmek"
+    }
+  ]
+}
